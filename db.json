@@ -1,0 +1,151 @@
+{
+  "allVideos": [
+    {
+      "caption": "Hukum",
+      "imageUrl": "https://c.saavncdn.com/082/Hukum-From-Jailer-Telugu-2023-20230730055959-500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/1F3hm6MfR1k",
+      "id": 4
+    },
+    {
+      "caption": "Apna Bana Le",
+      "imageUrl": "https://i.scdn.co/image/ab67616d00001e02b608e9bcf3845d082d1d559e",
+      "embedLink": "https://www.youtube.com/embed/Nnop2walGmM",
+      "id": 6
+    },
+    {
+      "caption": "Chaleya",
+      "imageUrl": "https://c.saavncdn.com/026/Chaleya-From-Jawan-Hindi-2023-20230814014337-500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "id": 7
+    },
+    {
+      "caption": "Rowdy Baby",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR04RKgbpQJwv-30AC2MVVD1OsROzbo1uABA&s",
+      "embedLink": "https://www.youtube.com/embed/x6Q7c9RyMzk",
+      "id": 8
+    },
+    {
+      "caption": "Chilluranthal",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/2e/11/502e1151-86a4-3ba7-2714-65622b5065a1/196872218718.jpg/800x800cc.jpg",
+      "embedLink": "https://www.youtube.com/embed/NaqwIiqY4qo",
+      "id": 10
+    },
+    {
+      "caption": "illuminati",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b54cdfbfaa828674ffecd12c",
+      "embedLink": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 11
+    },
+    {
+      "caption": "Bad Habits",
+      "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15c45dda-9a57-4ebf-b320-00fa22997424/delmrb0-09501865-58e2-49e6-a08e-452b972e57e8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1YzQ1ZGRhLTlhNTctNGViZi1iMzIwLTAwZmEyMjk5NzQyNFwvZGVsbXJiMC0wOTUwMTg2NS01OGUyLTQ5ZTYtYTA4ZS00NTJiOTcyZTU3ZTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qe_yvDfQRfL_9biMjB-pQqw5mXOnJ4vHJpAHeEYILTs",
+      "embedLink": "https://www.youtube.com/embed/orJSJGHjBLI",
+      "id": 12
+    },
+    {
+      "caption": "Rockabye",
+      "imageUrl": "https://i1.sndcdn.com/artworks-85mqHvlVphJK8jWl-hdh5gQ-t1080x1080.jpg",
+      "embedLink": "https://www.youtube.com/embed/papuvlVeZg8",
+      "id": 13
+    },
+    {
+      "caption": "Levitating Featuring DaBaby",
+      "imageUrl": "https://f4.bcbits.com/img/a2777312882_65",
+      "embedLink": "https://www.youtube.com/embed/TUVcZfQe-Kw",
+      "id": 14
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Hindi songs",
+      "allVideos": [
+        {
+          "caption": "Apna Bana Le",
+          "imageUrl": "https://i.scdn.co/image/ab67616d00001e02b608e9bcf3845d082d1d559e",
+          "embedLink": "https://www.youtube.com/embed/Nnop2walGmM",
+          "id": 6
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Malayalam Songs",
+      "allVideos": [
+        {
+          "caption": "Chilluranthal",
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/50/2e/11/502e1151-86a4-3ba7-2714-65622b5065a1/196872218718.jpg/800x800cc.jpg",
+          "embedLink": "https://www.youtube.com/embed/NaqwIiqY4qo",
+          "id": 10
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "English Songs",
+      "allVideos": [
+        {
+          "caption": "Bad Habits",
+          "imageUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15c45dda-9a57-4ebf-b320-00fa22997424/delmrb0-09501865-58e2-49e6-a08e-452b972e57e8.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1YzQ1ZGRhLTlhNTctNGViZi1iMzIwLTAwZmEyMjk5NzQyNFwvZGVsbXJiMC0wOTUwMTg2NS01OGUyLTQ5ZTYtYTA4ZS00NTJiOTcyZTU3ZTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qe_yvDfQRfL_9biMjB-pQqw5mXOnJ4vHJpAHeEYILTs",
+          "embedLink": "https://www.youtube.com/embed/orJSJGHjBLI",
+          "id": 12
+        }
+      ],
+      "id": 11
+    },
+    {
+      "categoryName": "Hindi",
+      "allVideos": [],
+      "id": 12
+    },
+    {
+      "categoryName": "Tamil Songs",
+      "allVideos": [
+        {
+          "caption": "Rowdy Baby",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR04RKgbpQJwv-30AC2MVVD1OsROzbo1uABA&s",
+          "embedLink": "https://www.youtube.com/embed/x6Q7c9RyMzk",
+          "id": 8
+        }
+      ],
+      "id": 13
+    }
+  ],
+  "history": [
+    {
+      "caption": "Chaleya",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "10/07/2024, 14:49:24",
+      "id": 1
+    },
+    {
+      "caption": "Apna Bana Le",
+      "url": "https://www.youtube.com/embed/Nnop2walGmM",
+      "timeStamp": "11/07/2024, 13:57:27",
+      "id": 2
+    },
+    {
+      "caption": "Hukum",
+      "url": "https://www.youtube.com/embed/1F3hm6MfR1k",
+      "timeStamp": "11/07/2024, 13:57:49",
+      "id": 5
+    },
+    {
+      "caption": "Rowdy Baby",
+      "url": "https://www.youtube.com/embed/x6Q7c9RyMzk",
+      "timeStamp": "11/07/2024, 14:57:50",
+      "id": 6
+    },
+    {
+      "caption": "Levitating Featuring DaBaby",
+      "url": "https://www.youtube.com/embed/TUVcZfQe-Kw",
+      "timeStamp": "12/07/2024, 13:21:39",
+      "id": 8
+    },
+    {
+      "caption": "Rowdy Baby",
+      "url": "https://www.youtube.com/embed/x6Q7c9RyMzk",
+      "timeStamp": "16/07/2024, 12:19:10",
+      "id": 9
+    }
+  ]
+}
